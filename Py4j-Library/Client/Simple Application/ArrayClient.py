@@ -6,3 +6,4 @@ int_array[0] = 1
 int_array[1] = 2
 for i in int_array:
     print(i)
+    

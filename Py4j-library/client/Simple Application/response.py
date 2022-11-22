@@ -8,5 +8,4 @@ def Add_2_Num(num1, num2):
     # addition_app = gateway.entry_point  # get the AdditionApplication instance
     value = gateway.entry_point.addition(num1,num2) # call the addition method
     return value
-
 print(Add_2_Num(2,3))
